@@ -1,0 +1,63 @@
+NVDA — NVIDIA CORP
+Monetary amounts: USD millions.
+Annual USD flows, 10-K only; latest filing within preferred tag; ratios use unrounded inputs.
+Fiscal year end | Revenue | Net income | Operating cash flow | Capital spending | Equity | ROE | Owner earnings | Liabilities | R&D | R&D / revenue | Liabilities / equity
+2022-01-30 | 26,914 | 9,752 | 9,108 | 976 | 26,612 | 36.6% | 8,132 | 17,575 | 5,268 | 19.57% | 0.66
+2023-01-29 | 26,974 | 4,368 | 5,641 | 1,833 | 22,101 | 19.8% | 3,808 | 19,081 | 7,339 | 27.21% | 0.86
+2024-01-28 | 60,922 | 29,760 | 28,090 | 1,069 | 42,978 | 69.2% | 27,021 | 22,750 | 8,675 | 14.24% | 0.53
+2025-01-26 | 130,497 | 72,880 | 64,089 | 3,236 | 79,327 | 91.9% | 60,853 | 32,274 | 12,914 | 9.90% | 0.41
+2026-01-25 | 215,938 | 120,067 | 102,718 | 6,042 | 157,293 | 76.3% | 96,676 | 49,510 | 18,497 | 8.57% | 0.31
+Revenue growth a year: 68.30%
+Buffett | ROE >= 15% every year | pass
+Buffett | Owner earnings positive every year | pass
+Buffett | Owner earnings grew, first year to last | pass
+Cathie Wood | Revenue growth a year >= 15% | pass
+Cathie Wood | R&D / revenue >= 5% latest year | pass
+Burry | Operating cash flow >= net income every year | fail
+Burry | Liabilities / equity <= 2 latest year | pass
+
+Provenance:
+2022-01-30
+  revenue: {"accession": "0001045810-22-000036", "end": "2022-01-30", "filed": "2022-03-18", "start": "2021-02-01", "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax", "value": 26914000000}
+  net_income: {"accession": "0001045810-24-000029", "end": "2022-01-30", "filed": "2024-02-21", "start": "2021-02-01", "tag": "us-gaap:NetIncomeLoss", "value": 9752000000}
+  operating_cash_flow: {"accession": "0001045810-24-000029", "end": "2022-01-30", "filed": "2024-02-21", "start": "2021-02-01", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 9108000000}
+  capital_spending: {"accession": "0001045810-24-000029", "end": "2022-01-30", "filed": "2024-02-21", "start": "2021-02-01", "tag": "us-gaap:PaymentsToAcquireProductiveAssets", "value": 976000000}
+  equity: {"accession": "0001045810-25-000023", "end": "2022-01-30", "filed": "2025-02-26", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 26612000000}
+  liabilities: {"accession": "0001045810-23-000017", "end": "2022-01-30", "filed": "2023-02-24", "start": null, "tag": "us-gaap:Liabilities", "value": 17575000000}
+  research_and_development: {"accession": "0001045810-24-000029", "end": "2022-01-30", "filed": "2024-02-21", "start": "2021-02-01", "tag": "us-gaap:ResearchAndDevelopmentExpense", "value": 5268000000}
+2023-01-29
+  revenue: {"accession": "0001045810-25-000023", "end": "2023-01-29", "filed": "2025-02-26", "start": "2022-01-31", "tag": "us-gaap:Revenues", "value": 26974000000}
+  net_income: {"accession": "0001045810-25-000023", "end": "2023-01-29", "filed": "2025-02-26", "start": "2022-01-31", "tag": "us-gaap:NetIncomeLoss", "value": 4368000000}
+  operating_cash_flow: {"accession": "0001045810-25-000023", "end": "2023-01-29", "filed": "2025-02-26", "start": "2022-01-31", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 5641000000}
+  capital_spending: {"accession": "0001045810-25-000023", "end": "2023-01-29", "filed": "2025-02-26", "start": "2022-01-31", "tag": "us-gaap:PaymentsToAcquireProductiveAssets", "value": 1833000000}
+  equity: {"accession": "0001045810-26-000021", "end": "2023-01-29", "filed": "2026-02-25", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 22101000000}
+  liabilities: {"accession": "0001045810-24-000029", "end": "2023-01-29", "filed": "2024-02-21", "start": null, "tag": "us-gaap:Liabilities", "value": 19081000000}
+  research_and_development: {"accession": "0001045810-25-000023", "end": "2023-01-29", "filed": "2025-02-26", "start": "2022-01-31", "tag": "us-gaap:ResearchAndDevelopmentExpense", "value": 7339000000}
+2024-01-28
+  revenue: {"accession": "0001045810-26-000021", "end": "2024-01-28", "filed": "2026-02-25", "start": "2023-01-30", "tag": "us-gaap:Revenues", "value": 60922000000}
+  net_income: {"accession": "0001045810-26-000021", "end": "2024-01-28", "filed": "2026-02-25", "start": "2023-01-30", "tag": "us-gaap:NetIncomeLoss", "value": 29760000000}
+  operating_cash_flow: {"accession": "0001045810-26-000021", "end": "2024-01-28", "filed": "2026-02-25", "start": "2023-01-30", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 28090000000}
+  capital_spending: {"accession": "0001045810-26-000021", "end": "2024-01-28", "filed": "2026-02-25", "start": "2023-01-30", "tag": "us-gaap:PaymentsToAcquireProductiveAssets", "value": 1069000000}
+  equity: {"accession": "0001045810-26-000021", "end": "2024-01-28", "filed": "2026-02-25", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 42978000000}
+  liabilities: {"accession": "0001045810-25-000023", "end": "2024-01-28", "filed": "2025-02-26", "start": null, "tag": "us-gaap:Liabilities", "value": 22750000000}
+  research_and_development: {"accession": "0001045810-26-000021", "end": "2024-01-28", "filed": "2026-02-25", "start": "2023-01-30", "tag": "us-gaap:ResearchAndDevelopmentExpense", "value": 8675000000}
+2025-01-26
+  revenue: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": "2024-01-29", "tag": "us-gaap:Revenues", "value": 130497000000}
+  net_income: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": "2024-01-29", "tag": "us-gaap:NetIncomeLoss", "value": 72880000000}
+  operating_cash_flow: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": "2024-01-29", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 64089000000}
+  capital_spending: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": "2024-01-29", "tag": "us-gaap:PaymentsToAcquireProductiveAssets", "value": 3236000000}
+  equity: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 79327000000}
+  liabilities: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": null, "tag": "us-gaap:Liabilities", "value": 32274000000}
+  research_and_development: {"accession": "0001045810-26-000021", "end": "2025-01-26", "filed": "2026-02-25", "start": "2024-01-29", "tag": "us-gaap:ResearchAndDevelopmentExpense", "value": 12914000000}
+2026-01-25
+  revenue: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": "2025-01-27", "tag": "us-gaap:Revenues", "value": 215938000000}
+  net_income: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": "2025-01-27", "tag": "us-gaap:NetIncomeLoss", "value": 120067000000}
+  operating_cash_flow: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": "2025-01-27", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 102718000000}
+  capital_spending: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": "2025-01-27", "tag": "us-gaap:PaymentsToAcquireProductiveAssets", "value": 6042000000}
+  equity: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 157293000000}
+  liabilities: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": null, "tag": "us-gaap:Liabilities", "value": 49510000000}
+  research_and_development: {"accession": "0001045810-26-000021", "end": "2026-01-25", "filed": "2026-02-25", "start": "2025-01-27", "tag": "us-gaap:ResearchAndDevelopmentExpense", "value": 18497000000}
+ROE = net income / year-end equity; owner earnings = operating cash flow - capital spending.
+R&D / revenue uses same-year amounts; liabilities / equity uses year-end balances.
+Revenue growth = (last revenue / first revenue)^(1/4) - 1.
+Source: {"cik": 1045810, "downloaded_at": "2026-11-05T22:10:15.682750+00:00", "sha256": "19ef503a5770f5660964b3c3aea6937579d9b359da344afe6a9adf59c63d26ff", "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json", "ticker": "NVDA"}

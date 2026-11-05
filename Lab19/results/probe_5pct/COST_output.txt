@@ -1,0 +1,63 @@
+COST — COSTCO WHOLESALE CORP /NEW
+Monetary amounts: USD millions.
+Annual USD flows, 10-K only; latest filing within preferred tag; ratios use unrounded inputs.
+Fiscal year end | Revenue | Net income | Operating cash flow | Capital spending | Equity | ROE | Owner earnings | Liabilities | R&D | R&D / revenue | Liabilities / equity
+2022-08-28 | 226,954 | 5,844 | 7,392 | 3,891 | 20,642 | 28.3% | 3,501 | 43,519 | not found | not known | 2.11
+2023-09-03 | 242,290 | 6,292 | 11,068 | 4,323 | 25,058 | 25.1% | 6,745 | 43,936 | not found | not known | 1.75
+2024-09-01 | 254,453 | 7,367 | 11,339 | 4,710 | 23,622 | 31.2% | 6,629 | 46,209 | not found | not known | 1.96
+2025-08-31 | 275,235 | 8,099 | 13,335 | 5,498 | 29,164 | 27.8% | 7,837 | 47,935 | not found | not known | 1.64
+2026-08-30 | 303,154 | 9,226 | 15,817 | 6,435 | 35,803 | 25.8% | 9,382 | 53,242 | not found | not known | 1.49
+Revenue growth a year: 7.51%
+Buffett | ROE >= 15% every year | pass
+Buffett | Owner earnings positive every year | pass
+Buffett | Owner earnings grew, first year to last | pass
+Cathie Wood | Revenue growth a year >= 5% | pass
+Cathie Wood | R&D / revenue >= 5% latest year | not known
+Burry | Operating cash flow >= net income every year | pass
+Burry | Liabilities / equity <= 2 latest year | pass
+
+Provenance:
+2022-08-28
+  revenue: {"accession": "0000909832-24-000049", "end": "2022-08-28", "filed": "2024-10-09", "start": "2021-08-30", "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax", "value": 226954000000}
+  net_income: {"accession": "0000909832-24-000049", "end": "2022-08-28", "filed": "2024-10-09", "start": "2021-08-30", "tag": "us-gaap:NetIncomeLoss", "value": 5844000000}
+  operating_cash_flow: {"accession": "0000909832-24-000049", "end": "2022-08-28", "filed": "2024-10-09", "start": "2021-08-30", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 7392000000}
+  capital_spending: {"accession": "0000909832-24-000049", "end": "2022-08-28", "filed": "2024-10-09", "start": "2021-08-30", "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment", "value": 3891000000}
+  equity: {"accession": "0000909832-23-000042", "end": "2022-08-28", "filed": "2023-10-11", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 20642000000}
+  liabilities: {"accession": "0000909832-23-000042", "end": "2022-08-28", "filed": "2023-10-11", "start": null, "tag": "us-gaap:Liabilities", "value": 43519000000}
+  research_and_development: {"searched_tags": ["ResearchAndDevelopmentExpense", "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost"], "tag": "not found", "value": null}
+2023-09-03
+  revenue: {"accession": "0000909832-25-000101", "end": "2023-09-03", "filed": "2025-10-08", "start": "2022-08-29", "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax", "value": 242290000000}
+  net_income: {"accession": "0000909832-25-000101", "end": "2023-09-03", "filed": "2025-10-08", "start": "2022-08-29", "tag": "us-gaap:NetIncomeLoss", "value": 6292000000}
+  operating_cash_flow: {"accession": "0000909832-25-000101", "end": "2023-09-03", "filed": "2025-10-08", "start": "2022-08-29", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 11068000000}
+  capital_spending: {"accession": "0000909832-25-000101", "end": "2023-09-03", "filed": "2025-10-08", "start": "2022-08-29", "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment", "value": 4323000000}
+  equity: {"accession": "0000909832-26-000093", "end": "2023-09-03", "filed": "2026-10-07", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 25058000000}
+  liabilities: {"accession": "0000909832-24-000049", "end": "2023-09-03", "filed": "2024-10-09", "start": null, "tag": "us-gaap:Liabilities", "value": 43936000000}
+  research_and_development: {"searched_tags": ["ResearchAndDevelopmentExpense", "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost"], "tag": "not found", "value": null}
+2024-09-01
+  revenue: {"accession": "0000909832-26-000093", "end": "2024-09-01", "filed": "2026-10-07", "start": "2023-09-04", "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax", "value": 254453000000}
+  net_income: {"accession": "0000909832-26-000093", "end": "2024-09-01", "filed": "2026-10-07", "start": "2023-09-04", "tag": "us-gaap:NetIncomeLoss", "value": 7367000000}
+  operating_cash_flow: {"accession": "0000909832-26-000093", "end": "2024-09-01", "filed": "2026-10-07", "start": "2023-09-04", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 11339000000}
+  capital_spending: {"accession": "0000909832-26-000093", "end": "2024-09-01", "filed": "2026-10-07", "start": "2023-09-04", "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment", "value": 4710000000}
+  equity: {"accession": "0000909832-26-000093", "end": "2024-09-01", "filed": "2026-10-07", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 23622000000}
+  liabilities: {"accession": "0000909832-25-000101", "end": "2024-09-01", "filed": "2025-10-08", "start": null, "tag": "us-gaap:Liabilities", "value": 46209000000}
+  research_and_development: {"searched_tags": ["ResearchAndDevelopmentExpense", "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost"], "tag": "not found", "value": null}
+2025-08-31
+  revenue: {"accession": "0000909832-26-000093", "end": "2025-08-31", "filed": "2026-10-07", "start": "2024-09-02", "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax", "value": 275235000000}
+  net_income: {"accession": "0000909832-26-000093", "end": "2025-08-31", "filed": "2026-10-07", "start": "2024-09-02", "tag": "us-gaap:NetIncomeLoss", "value": 8099000000}
+  operating_cash_flow: {"accession": "0000909832-26-000093", "end": "2025-08-31", "filed": "2026-10-07", "start": "2024-09-02", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 13335000000}
+  capital_spending: {"accession": "0000909832-26-000093", "end": "2025-08-31", "filed": "2026-10-07", "start": "2024-09-02", "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment", "value": 5498000000}
+  equity: {"accession": "0000909832-26-000093", "end": "2025-08-31", "filed": "2026-10-07", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 29164000000}
+  liabilities: {"accession": "0000909832-26-000093", "end": "2025-08-31", "filed": "2026-10-07", "start": null, "tag": "us-gaap:Liabilities", "value": 47935000000}
+  research_and_development: {"searched_tags": ["ResearchAndDevelopmentExpense", "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost"], "tag": "not found", "value": null}
+2026-08-30
+  revenue: {"accession": "0000909832-26-000093", "end": "2026-08-30", "filed": "2026-10-07", "start": "2025-09-01", "tag": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax", "value": 303154000000}
+  net_income: {"accession": "0000909832-26-000093", "end": "2026-08-30", "filed": "2026-10-07", "start": "2025-09-01", "tag": "us-gaap:NetIncomeLoss", "value": 9226000000}
+  operating_cash_flow: {"accession": "0000909832-26-000093", "end": "2026-08-30", "filed": "2026-10-07", "start": "2025-09-01", "tag": "us-gaap:NetCashProvidedByUsedInOperatingActivities", "value": 15817000000}
+  capital_spending: {"accession": "0000909832-26-000093", "end": "2026-08-30", "filed": "2026-10-07", "start": "2025-09-01", "tag": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment", "value": 6435000000}
+  equity: {"accession": "0000909832-26-000093", "end": "2026-08-30", "filed": "2026-10-07", "start": null, "tag": "us-gaap:StockholdersEquity", "value": 35803000000}
+  liabilities: {"accession": "0000909832-26-000093", "end": "2026-08-30", "filed": "2026-10-07", "start": null, "tag": "us-gaap:Liabilities", "value": 53242000000}
+  research_and_development: {"searched_tags": ["ResearchAndDevelopmentExpense", "ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost"], "tag": "not found", "value": null}
+ROE = net income / year-end equity; owner earnings = operating cash flow - capital spending.
+R&D / revenue uses same-year amounts; liabilities / equity uses year-end balances.
+Revenue growth = (last revenue / first revenue)^(1/4) - 1.
+Source: {"cik": 909832, "downloaded_at": "2026-11-03T22:37:19.553980+00:00", "sha256": "b675ced201b27ede2b0d26ca6fd873befe96a1afa9679339a2d0b964187dcdff", "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000909832.json", "ticker": "COST"}
